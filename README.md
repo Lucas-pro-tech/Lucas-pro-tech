@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Matos
+# 👋 Olá, eu sou Lucas Araújo
 
 💻 Desenvolvedor focado em [área: backend, frontend, fullstack, dados, etc]  
 🎯 Buscando oportunidades em [estágio, júnior, freelance, etc]  
