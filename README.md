@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lucas Matos
 
-<!--
-**Lucas-pro-tech/Lucas-pro-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em [área: backend, frontend, fullstack, dados, etc]  
+🎯 Buscando oportunidades em [estágio, júnior, freelance, etc]  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+Sou apaixonado por tecnologia e resolução de problemas. Uso meus projetos para transformar teoria em prática, sempre buscando escrever código limpo, escalável e bem documentado.
+
+---
+
+## ⚙️ Tecnologias
+- Linguagens: JavaScript, Python, Java, etc
+- Frameworks: React, Node.js, Django, etc
+- Banco de dados: MySQL, PostgreSQL, MongoDB
+- Ferramentas: Git, Docker, Linux, etc
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-pro-tech&show_icons=true&theme=tokyonight)
+
+---
